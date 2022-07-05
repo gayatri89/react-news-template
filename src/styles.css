@@ -2,3 +2,17 @@
   font-family: sans-serif;
   text-align: center;
 }
+.navigation {
+  background: aquamarine;
+}
+.menu-lists {
+  display: flex;
+  list-style: none;
+  padding: 5px;
+  background: royalblue;
+}
+
+.menu-lists li {
+  padding: 5px 10px;
+  color: antiquewhite;
+}
